@@ -9,3 +9,5 @@ tail --pid=$pid -f /dev/null
 
 docker stop $container_id
 docker rm $container_id
+
+# fuck you the world
