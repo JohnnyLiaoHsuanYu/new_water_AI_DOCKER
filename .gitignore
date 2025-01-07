@@ -3,7 +3,7 @@ prediction_result/
 # *.csv
 env_build_cmd
 # image/
-# log/
+log/
 __pycache__/
 *.py[cod]
 *$py.class
