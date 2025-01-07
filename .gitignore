@@ -1,0 +1,9 @@
+prediction_result/
+#resevior_XGBRegressor_*
+#*.csv
+env_build_cmd
+image/
+#log/
+__pycache__/
+*.py[cod]
+*$py.class
