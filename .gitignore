@@ -1,8 +1,8 @@
 prediction_result/
-#resevior_XGBRegressor_*
-#*.csv
+resevior_XGBRegressor_*
+*.csv
 env_build_cmd
-#image/
+image/
 log/
 __pycache__/
 *.py[cod]
